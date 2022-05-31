@@ -1,0 +1,149 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+
+}
+  
+.wrapper-page1 {
+    width: 1170px;   
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+
+.main-page {
+	background: linear-gradient(270deg, #A5DEFF 0%, #FCFEFF 100%);
+    height: 100%;   
+    display: flex;
+    flex-direction: column;
+    margin-top: 52px;
+}
+
+header {
+    margin-top: 34px;
+    margin-bottom: 58px;
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 0px;} 
+
+.logo-text {
+    margin-left: 18px;      
+}
+
+.banderogus-container {
+    background-color: #FFFFFF;
+    padding: 60px 56px;
+    align-self: center;
+}
+
+.main-page-row {
+    display: flex;    
+    justify-content: space-between;
+    height: 100%;
+}
+
+
+.good_evening {   
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1B1D1F;
+    margin-bottom: 16px;
+}
+.to_start {   
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #FF6B0A;
+    padding-bottom: 48px;
+}
+.Banderohus {    
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;     
+    color: #1B1D1F;
+    padding-bottom: 24px;
+}
+.description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;   
+    color: #1B1D1F;   
+    margin-bottom: 48px;
+}
+
+.image {
+    align-self: flex-end;
+}
+
+.btn {    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    background: #FF6B0A;
+    border-radius: 8px;   
+    color: #FFFFFF;
+    padding: 12px 24px;
+    cursor: pointer;
+}
+
+.gus-facts {
+    width: 1170px;   
+    margin: 0 auto;
+    height: 100%;
+    margin-top: 52px;
+  
+}
+
+.gus-facts-title {
+   text-align: center;
+  
+    
+}
+
+.logo-ukr {
+    align-self: center;
+}
+
+.facts-title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 100px;      
+    color: #1B1D1F;
+}
+
+.facts-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;     
+    color: #1B1D1F;  
+    padding: 0px 148px 0px 148px;
+  
+
+}
+
+.gus-facts-list {
+    display: flex;
+
+}
+
+.gus-facts-column {
+
+}
+
+.gus_image {
+
+}
+
+.navigation {
+
+}
+
+.navigation-text {
+
+}
